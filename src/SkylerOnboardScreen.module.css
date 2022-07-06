@@ -1,0 +1,58 @@
+.skylarRoot {
+  border-width: 4px;
+  border-color: #ffffff;
+  border-style: solid;
+  width: 267px;
+  height: 716px;
+  background-color: #8e8e8e;
+  display: flex;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-end;
+  margin: auto;
+  align-items: center;
+  border-radius: 20px;
+  padding: 42px 47px 42px 46px;
+}
+.flexColumn {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0px 0px 137px 0px;
+}
+.text1 {
+  font-size: 50px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  color: #2e2e2e;
+}
+.text2 {
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  color: #2e2e2e;
+  align-self: flex-end;
+  margin: 0px 31px 0px 0px;
+}
+.text3 {
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  color: #2e2e2e;
+  margin: 0px 0px 12px 0px;
+}
+.text4 {
+  font-size: 16px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  color: #2e2e2e;
+  margin: 0px 0px 37px 0px;
+}
+.paragraph {
+  text-align: center;
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  color: #2e2e2e;
+}
